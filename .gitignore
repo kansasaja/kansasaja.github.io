@@ -7,3 +7,16 @@ vendor
 Gemfile.lock
 *.gem
 .DS_Store
+# 환경별 파일들
+vendor/
+.bundle/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 로컬 설정
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
